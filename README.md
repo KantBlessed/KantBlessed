@@ -1,11 +1,8 @@
-Código 1:
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Kant+Blessed!;" />
 </h1>
 <h3>Desenvolvedor Java-End </h3>
-
-código 3:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="KantBlessed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,8 +13,6 @@ código 3:
   <img align="center" alt="KantBlessed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="KantBlessed-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-código 4:
 
 <div>
   <a href="https://www.youtube.com/@Senacceoficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
