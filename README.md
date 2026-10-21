@@ -5,16 +5,6 @@ Código 1:
 </h1>
 <h3>Desenvolvedor Java-End </h3>
 
-
-Código 2:
-
-<div align="center">
-  <a href="https://github.com/KantBlessed"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KantBlessed&show_icons=true&theme=dosrk&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KantBlessed&layout=compact&langs_count=16&theme=dosrk" />
-  </a>
-</div>
-
 código 3:
 
 <div style="display: inline_block"><br>
